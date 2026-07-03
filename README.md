@@ -1,9 +1,11 @@
 # Hi, I'm Sadhan Sridhar 👋
 
-<!-- This builds the typing effect. It will look like text typing and deleting itself on GitHub -->
-![Typing Animation](https://demolab.com)
+<p align="left">
+  <img src="https://herokuapp.com" alt="Typing Animation" />
+</p>
 
 ## Featured Projects
+
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
