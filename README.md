@@ -1,12 +1,12 @@
 # Hi, I'm Sadhan Sridhar 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3399FF&center=true&vCenter=true&width=520&lines=CSE-AIML+%40+PES+University;Building+the+Q%26A+engine+for+V2V+Transmission;Query-driven+clip+editing+%7C+video+summarization;Learning+Rust+%7C+Functional+Python" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3399FF&center=true&vCenter=true&width=650&lines=CSE-AIML+%40+PES+University;Building+the+Q%26A+engine+for+V2V+Transmission;Query-driven+clip+editing+%7C+video+summarization;Learning+Rust+%7C+Functional+Python" alt="Typing Animation" />
 </p>
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadhan-sridhar/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadhans.sridhar@gmail.com)
+<!-- 🔗 Swap in your real links, then delete this comment -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 ---
 
@@ -43,7 +43,6 @@ I'm a Computer Science and Artificial Intelligence / Machine Learning undergradu
 ---
 
 ## GitHub Analytics
-
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sadhansrid007&theme=tokyonight&hide_border=true)
 
