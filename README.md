@@ -44,8 +44,7 @@ I'm a Computer Science and Artificial Intelligence / Machine Learning undergradu
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadhansrid007&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadhansrid007&layout=compact&theme=tokyonight&hide_border=true)
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sadhansrid007&theme=tokyonight&hide_border=true)
 
 ---
